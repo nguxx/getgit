@@ -1,1 +1,0 @@
-pprint(dir(os))
