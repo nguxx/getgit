@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-vr = input("ce qui est vrai est faux, est-ce vrai ?)
+vr = input("ce qui est vrai est faux, est-ce vrai ? Réponse : ")
 if vr == "faux":
            print("faux")
-ifesle vr == "vrai":
+elif vr == "vrai":
            print("vrai")
-else
+else:
            print("erreur")
